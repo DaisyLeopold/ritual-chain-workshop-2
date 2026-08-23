@@ -106,3 +106,51 @@ betting model is plain pari-mutuel: two running totals and one mapping per side.
 - Ritual Chain docs — <https://docs.ritualfoundation.org>
 - dApp skills — <https://github.com/ritual-foundation/ritual-dapp-skills>
 - Explorer — <https://explorer.ritualfoundation.org> · Faucet — <https://faucet.ritualfoundation.org>
+# Production Engineer Edition
+
+
+
+## Engineering Goal
+
+
+This version focuses on improving
+maintainability and reliability of
+the prediction market system.
+
+
+
+## Improvements
+
+
+
+### Architecture
+
+
+Added:
+
+
+- Modular storage design
+
+- Validation utilities
+
+- Deployment configuration
+
+
+
+### Testing
+
+
+Added:
+
+
+- Lifecycle testing
+
+- User interaction testing
+
+- Integration verification
+
+
+
+
+
+
