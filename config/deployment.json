@@ -1,0 +1,37 @@
+{
+    "local": {
+
+        "network": "hardhat",
+
+        "chainId": 31337,
+
+        "confirmations": 1
+
+    },
+
+
+    "ritual": {
+
+
+        "network": "ritual",
+
+        "chainId": 1234,
+
+        "confirmations": 3
+
+    },
+
+
+    "deployment": {
+
+
+        "verify": false,
+
+
+        "saveAddress": true
+
+
+    }
+
+
+}
